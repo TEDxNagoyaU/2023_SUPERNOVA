@@ -1,12 +1,12 @@
 
 .slider {
-    width:96%;
+    width:94%;
     margin:0 auto;
     overflow:hidden;
 }
 
 .slider img {
-    width:65vw;
+    width:70vw;
     height:auto;
     margin-left: 5%;
 }

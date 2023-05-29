@@ -10,3 +10,13 @@
     margin-left: 5%;
 }
 
+.slider .slick-slide {
+	transform: scale(0.8);
+	transition: all .5s;
+	opacity: 0.5;
+}
+
+.slider .slick-slide.slick-center{
+	transform: scale(1);
+	opacity: 1;
+}

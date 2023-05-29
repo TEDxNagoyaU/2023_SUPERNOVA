@@ -20,11 +20,3 @@
 	transform: scale(1);
 	opacity: 1;
 }
-
-
-@media screen and (max-width: 767px){
-	.slider{
-            width:100%;
-	    margin-left: 15%;
-	}
-}
